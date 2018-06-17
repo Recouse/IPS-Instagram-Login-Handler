@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="instagramlh" version="10000">
+  <word key="__app_instagramlh" js="0">Instagram Login Handler</word>
+  <word key="login_handler_Instagram" js="0">Instagram</word>
+  <word key="login_handler_Instagram_info" js="0"><![CDATA[Create a Client <a href='https://www.instagram.com/developer/clients/manage' target='_blank'>here</a> to get ID and Secret. The Redirect URL to use is <code>%s</code>]]></word>
+  <word key="login_instagram_client" js="0">Client ID</word>
+  <word key="login_instagram_secret" js="0">Client Secret</word>
+  <word key="login_real_name_instagram" js="0">Instagram account name</word>
+  <word key="login_instagram" js="0">Sign in with Instagram</word>
+ </app>
+</language>
